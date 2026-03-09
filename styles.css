@@ -21,3 +21,6 @@ header{
 .post-image img{
     width: 100%;
 }
+.post-description{
+    padding: 10px;
+}
