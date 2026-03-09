@@ -13,3 +13,8 @@ header{
     background: white;
     margin-top: 40px;
 }
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
